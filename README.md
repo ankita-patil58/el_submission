@@ -1,4 +1,4 @@
-# Application Submission
+# R Shiny App (RNASeq Analysis)
 
 Overview of the Application
 
